@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    gap: 10px;
+    background: white;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 500;
+  }
+  
+  .navlinks {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    padding-right: 4%;
+  }
